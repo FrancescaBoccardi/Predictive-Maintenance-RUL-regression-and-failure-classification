@@ -34,12 +34,3 @@ The project has been realized by:
 
 * Francesca Boccardi ([FrancescaBoccardi](https://github.com/FrancescaBoccardi))
 * Luigi Podda ([lupodda](https://github.com/lupodda))
-
-
-## Authors
-
-The project has been realized by:
-
-* Francesca Boccardi ([FrancescaBoccardi](https://github.com/FrancescaBoccardi))
-* Luigi Podda ([lupodda](https://github.com/lupodda))
-* Matteo Nestola
