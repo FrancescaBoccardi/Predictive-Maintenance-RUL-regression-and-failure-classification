@@ -8,12 +8,17 @@ task to classify which component will fail in the following hours.
 
 ````
 .
-├── notebook.ipynb                      # jupyter notebook containing the project's code
+├── data                                # five .csv containing the data used for the experiments 
+|   ├── PdM_errors.csv
+|   ├── PdM_failures.csv                             
+|   ├── PdM_machines.csv                             
+|   ├── PdM_maint.csv                             
+|   ├── PdM_telemetry.csv                 
+├── notebook.ipynb                      # jupyter notebook containing the project's code with comments
 ├── models.py                           # implementation of the models used in the project
 ├── utils.py                            # util functions              
 ├── README.md
 ├── requirements.txt                    # necessary installations
-├── report.pdf                          # Report of the project
 ````
 
 ## Required installations
